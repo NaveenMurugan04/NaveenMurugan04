@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaveenMurugan04
+- 👋 Hi, I’m Naveen
 - 👀 I’m interested in Software Development
 - 📫 How to reach me naveen@br.iq
 
